@@ -1,4 +1,4 @@
-#integrantes : 
+#integrantes : buen dia
 
 #Declaracion de funciones:
 def media_x(l):#La funcion de moda recibe como parametro de entrada una lista "l"
