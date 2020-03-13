@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 #integrantes :  Hola
+=======
+#integrantes : buen dia
+>>>>>>> 3ecf4036f0078e4461b2a5dd16af502b05323b76
 
 #Declaracion de funciones:
 def media_x(l):#La funcion de moda recibe como parametro de entrada una lista "l"
